@@ -1,20 +1,21 @@
 === Site Last Modified ===
 Contributors: exed internet
-Version: 1.0
+Version: 1.0.3
 Tags: website info, modified, last, date, time
 Stable tag: trunk
 Requires at least: 2.5
-Tested up to: 3.1
+Tested up to: 3.5
 License: GPLv2 or later
 
 == Description ==
 Adds the possibility to display the date and/or time the website was last modified,
 in template, or through shortcode. 
+
 The plugin uses the timestamp of the last modified post for this information.
 
 Please note, this plugin does not show the specific date per post, there are other plugins for that feature.
 
-Requires WordPress 2.5 and php 5.
+Requires at least WordPress 2.5 and php 5.
 
 = Contact =
 In case of suggestions or improvements please contact EXED at service@exed.nl, or through the GitHub repository (see below).
@@ -67,12 +68,18 @@ Improved readme.txt, no code changes
 = 1.0.2 =
 Improved readme.txt, no code changes
 
+= 1.0.3 =
+Improved readme.txt, no code changes
+
 == Upgrade Notice ==
 
 = 1.0.1 =
 No changes required
 
-= 1.0.1 =
+= 1.0.2 =
+No changes required
+
+= 1.0.3 =
 No changes required
 
 == Screenshots ==
