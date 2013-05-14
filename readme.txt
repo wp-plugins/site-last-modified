@@ -7,6 +7,9 @@ Requires at least: 2.5
 Tested up to: 3.5
 License: GPLv2 or later
 
+Adds the possibility to display the date and/or time the website was last modified,
+in template, or through shortcode. 
+
 == Description ==
 Adds the possibility to display the date and/or time the website was last modified,
 in template, or through shortcode. 
