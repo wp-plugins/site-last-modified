@@ -1,24 +1,21 @@
+
 === Site Last Modified ===
 Contributors: exed internet
-Version: 1.0.3
+Version: 1.0
 Tags: website info, modified, last, date, time
-Stable tag: tags/1.0.3
+Stable tag: trunk
 Requires at least: 2.5
 Tested up to: 4.0
 License: GPLv2 or later
 
-Adds the possibility to display the date and/or time the website was last modified,
-in template, or through shortcode. 
-
 == Description ==
 Adds the possibility to display the date and/or time the website was last modified,
 in template, or through shortcode. 
-
 The plugin uses the timestamp of the last modified post for this information.
 
 Please note, this plugin does not show the specific date per post, there are other plugins for that feature.
 
-Requires at least WordPress 2.5 and php 5.
+Requires WordPress 2.5 and php 5.
 
 = Contact =
 In case of suggestions or improvements please contact EXED at service@exed.nl, or through the GitHub repository (see below).
@@ -26,9 +23,9 @@ In case of suggestions or improvements please contact EXED at service@exed.nl, o
 = More information =
 Read the following items for more information:
 
-* Follow EXED internet on [Facebook](https://www.facebook.com/EXEDInternet), [Twitter](https://twitter.com/exedinternet) and our [blog](http://blog.exed.nl) *(Dutch only)*
-* Other WordPress Plugins by EXED internet. - http://profiles.wordpress.org/exed-internet/
-* EXED internet official website - [http://www.exed.nl](http://www.exed.nl?utm_source=wordpress&utm_medium=social%2Bmedia)
+* Follow EXED internet on [Facebook](https://www.facebook.com/MixComMediaGroup), [Twitter](https://twitter.com/MixComMedia) and our [blog](https://mixcom.nl/blog) *(Dutch only)*
+* Other WordPress Plugins by EXED internet - http://profiles.wordpress.org/exed-internet/
+* EXED internet official website - [https://mixcom.nl/online](https://mixcom.nl/online?utm_source=wordpress&utm_medium=social%2Bmedia)
 
 == Installation ==
 1. Download the code from Wordpress or GitHub https://github.com/exed/WP-Site-Last-Modified/archive/1.0.zip
@@ -71,18 +68,12 @@ Improved readme.txt, no code changes
 = 1.0.2 =
 Improved readme.txt, no code changes
 
-= 1.0.3 =
-Improved readme.txt, no code changes
-
 == Upgrade Notice ==
 
 = 1.0.1 =
 No changes required
 
-= 1.0.2 =
-No changes required
-
-= 1.0.3 =
+= 1.0.1 =
 No changes required
 
 == Screenshots ==
