@@ -2,8 +2,8 @@
 /*
 Plugin Name: Site Last Modified
 Plugin URI: 
-Description: Adds the possibility to display the date and time that the website was last modified, both directly by a function in the template, or through a shortcode.
-Version: 1.0
+Description: Adds the possibility to display the date and time that the website was last modified, both directly by a function in the template or with a shortcode.
+Version: 1.0.4
 Author: EXED internet (MR,BHdH)
 Author URI: http://www.exed.nl/
 License: GPLv2 or later
@@ -33,7 +33,7 @@ add_shortcode( 'site_last_modified', 'get_site_last_modified' );
  * @return string date
  */
 function get_site_last_modified( $atts ) {
-	global $wpdb;
+  global $wpdb;
 
 	if ( is_array( $atts ) ) {
 		extract( shortcode_atts( array(
